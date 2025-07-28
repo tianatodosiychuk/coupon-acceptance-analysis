@@ -2,6 +2,7 @@
 
 **Repository:** https://github.com/your-username/coupon-acceptance-analysis  
 **Notebook:** [analysis.ipynb](notebooks/analysis.ipynb) → EDA, visualizations, statistical tests, key recommendations
+
 ---
 
 ## 🚀 TL;DR
