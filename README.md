@@ -1,8 +1,7 @@
 # Will the Customer Accept the Coupon?
 
 **Repository:** https://github.com/your-username/coupon-acceptance-analysis  
-**Notebook:** `analysis.ipynb` → EDA, visualizations, statistical tests, key recommendations  
-
+**Notebook:** [analysis.ipynb](notebooks/analysis.ipynb) → EDA, visualizations, statistical tests, key recommendations
 ---
 
 ## 🚀 TL;DR
